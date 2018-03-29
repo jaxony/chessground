@@ -1,5 +1,5 @@
 {
-  "name": "chessground",
+  "name": "@jaxony/chessground",
   "version": "7.3.2",
   "description": "lichess.org Chess UI",
   "main": "chessground.js",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ornicar/chessground.git"
+    "url": "git://github.com/jaxony/chessground.git"
   },
   "keywords": [
     "chess",
