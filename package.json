@@ -29,13 +29,7 @@
     "type": "git",
     "url": "git://github.com/jaxony/chessground.git"
   },
-  "keywords": [
-    "chess",
-    "lichess.org",
-    "chessboard",
-    "UI",
-    "typescript"
-  ],
+  "keywords": ["chess", "lichess.org", "chessboard", "UI", "typescript"],
   "author": "Thibault Duplessis (https://github.com/ornicar)",
   "license": "GPL-3.0",
   "bugs": {
